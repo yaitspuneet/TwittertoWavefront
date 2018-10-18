@@ -5,7 +5,6 @@ import time
 
 # Import the File Location to a Path Variable
 tweets_data_path = '/Users/puneeta/PycharmProjects/Twitter/Wavefront + Twitter Demo/Wavefront_Metrics/Twitter-Data9.json'
-tweets_out_path = '/Users/puneeta/PycharmProjects/Twitter/Wavefront + Twitter Demo/Wavefront_Metrics/Output.txt'
 
 # For Loop for opening the JSOn file and Reading it line by line
 tweets_data = []
